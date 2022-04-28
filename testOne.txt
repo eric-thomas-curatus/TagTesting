@@ -1,1 +1,3 @@
 This is a text file to test my tagging.
+
+Version 2: Adding a line
